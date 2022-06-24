@@ -49,4 +49,4 @@
 
 <br>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/devjoanderson/dev-joanderson/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/dev-joanderson/dev-joanderson/output/github-contribution-grid-snake.svg)
