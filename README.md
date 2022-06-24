@@ -4,13 +4,10 @@
 
 ## Olá pessoal 👋
 
-<br>
+<br>👨‍🎓 Atualmente estou cursando Sistemas de Informação pela Universidade Federal da Paraíba (campus IV - Rio Tinto).
 
-- 🚀 Atualmente estou cursando Sistemas de Informação pela Universidade Federal da Paraíba (campus IV - Rio Tinto).
-
-- 🌱 Estou sempre estudando JavaScript, ReactJS, React Native, TypeScript, NodeJS
-
-<br>
+<br/> 💜   Buscando colaborar com projetos em Front-end usando React
+<br>💻   Minha stack: ReactJS, Node.js, React Native & Typescript
 
 ## MY SKILLS
 
