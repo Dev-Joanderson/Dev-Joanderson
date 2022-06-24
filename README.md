@@ -47,6 +47,4 @@
   <img src="https://profile-counter.glitch.me/dev-joanderson/count.svg" />  
 </p>
 
-<br>
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/dev-joanderson/dev-joanderson/output/github-contribution-grid-snake.svg)
