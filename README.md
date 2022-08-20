@@ -1,4 +1,4 @@
-<img width="auto" src="banner.png">
+<img width="auto" src="banner.png">\\
 
 # Joanderson Trajano
 
