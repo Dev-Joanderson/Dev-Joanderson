@@ -1,6 +1,6 @@
 <img width="auto" src="banner.png">
 
-# Joanderson Trajano//
+# Joanderson Trajano
 
 ## Olá pessoal 👋
 
